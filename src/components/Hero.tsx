@@ -31,7 +31,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-blue-500 animate-fade-in">
                 <img
-                  src="/photo.jpg"
+                  src={`${import.meta.env.BASE_URL}photo.jpg`}
                   alt="Vivek Domadiya"
                   className="w-full h-full object-cover"
                 />
