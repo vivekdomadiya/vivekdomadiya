@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vivek Domadiya!
 
-[![GitHub followers](https://img.shields.io/github/followers/vivekdomadiya?label=Follow&style=social)](https://github.com/vivekdomadiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/vivek-domadiya) [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_vivek_domadiya_) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vivekmdomadiya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/vivek-domadiya) [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://vivekdomadiya.github.io/vivekdomadiya/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_vivek_domadiya_) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vivekmdomadiya@gmail.com)
 
 ## About Me
 I’m a passionate full stack developer with a love for creating innovative solutions. Welcome to my GitHub profile! Here you'll find a variety of projects that reflect my journey in tech.
